@@ -2,6 +2,7 @@
 D7B00402659BA2ABD2CB0DB27FA2B656 # Wii U Common Key:
 805E6285CD487DE0FAFFAA65A6985E17 # Wii U Espresso Ancast Key
 B5D8AB06ED7F6CFC529F2CE1B4EA32FD # Wii U Starbuck Ancast Key
+
 ############################################################
 
 fa37b75fd0de03d2a297471477066c7c # Family Party30 Great Games Obstacle Arcade (USA)
